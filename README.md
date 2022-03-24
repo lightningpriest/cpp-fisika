@@ -3,4 +3,4 @@ Kumpulan program yang berkaitan dengan Fisika, dibuat menggunakan bahasa pemrogr
 Bisa dicompile menggunakan online compiler ataupun menggunakan Visual Studio.  
 Masing-masing rumus dipisahkan perkode, jadi anda dapat memilih salah satu yang dibutuhkan.  
   
-Tidak menyediakan yang sudah dicompile, jika membutuhkan bantuan silahkan hubungi dengan cara mengirimkan pesan di GitHub.
+Tidak menyediakan yang sudah dicompile, jika membutuhkan bantuan silahkan hubungi dengan cara mengirimkan pesan di bagian [Issues](https://github.com/rizzyneck/cpp-fisika/issues).
